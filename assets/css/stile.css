@@ -393,4 +393,8 @@ footer a {
         font-size: 1.7em;
         margin-left: 0px;
     }
+
+    th {
+        color: black;
+    }
 }
